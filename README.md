@@ -1,8 +1,5 @@
   # RideWave Data Platform
 
-  **Student Name** : Ayush
-  **Batch**        : Sigmoid DE Bootcamp 2026
-  **Date**         : March 2026
 
   ## About RideWave
   RideWave is a fast-growing ride-hailing and logistics startup
